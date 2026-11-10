@@ -81,7 +81,7 @@ function generateRecommendations({gender, region, occasion, style, colors}){
     base.push("لمسات كلاسيكية تعكس طابع نجد الأصيل بشكل عصري");
     reasons.push("نجد معروفة بطابع كلاسيكي متزن");
   } else if (region === "hijaz") {
-    base.push("ألوان أدفى وتفاصيل ناعمة بطابع حجازي");
+    base.push("ألوان أدفأ وتفاصيل ناعمة بطابع حجازي");
     reasons.push("الحجاز يميل للتفاصيل الناعمة والذوق المتنوع");
   } else if (region === "eastern") {
     base.push("ستايل عصري مع اهتمام بالتناسق والإكسسوارات");
